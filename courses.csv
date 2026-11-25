@@ -1,0 +1,9 @@
+course_id,course,teacher_id,room_id,students,sessions_per_week
+C101,Python Programming,T01,R101,45,3
+C102,Database Management,T02,R102,50,3
+C103,Machine Learning,T03,R103,40,2
+C104,Data Structures,T01,R102,45,3
+C105,Web Development,T04,R101,35,2
+C106,Mathematics,T05,R103,55,3
+C107,Computer Networks,T02,R104,45,2
+C108,Artificial Intelligence,T03,R104,40,2
